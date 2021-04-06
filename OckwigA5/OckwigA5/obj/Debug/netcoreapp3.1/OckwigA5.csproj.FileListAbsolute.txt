@@ -1,0 +1,13 @@
+C:\Users\Caleb\source\repos\OckwigA5\OckwigA5\bin\Debug\netcoreapp3.1\OckwigA5.exe
+C:\Users\Caleb\source\repos\OckwigA5\OckwigA5\bin\Debug\netcoreapp3.1\OckwigA5.deps.json
+C:\Users\Caleb\source\repos\OckwigA5\OckwigA5\bin\Debug\netcoreapp3.1\OckwigA5.runtimeconfig.json
+C:\Users\Caleb\source\repos\OckwigA5\OckwigA5\bin\Debug\netcoreapp3.1\OckwigA5.runtimeconfig.dev.json
+C:\Users\Caleb\source\repos\OckwigA5\OckwigA5\bin\Debug\netcoreapp3.1\OckwigA5.dll
+C:\Users\Caleb\source\repos\OckwigA5\OckwigA5\bin\Debug\netcoreapp3.1\OckwigA5.pdb
+C:\Users\Caleb\source\repos\OckwigA5\OckwigA5\obj\Debug\netcoreapp3.1\OckwigA5.csprojAssemblyReference.cache
+C:\Users\Caleb\source\repos\OckwigA5\OckwigA5\obj\Debug\netcoreapp3.1\OckwigA5.AssemblyInfoInputs.cache
+C:\Users\Caleb\source\repos\OckwigA5\OckwigA5\obj\Debug\netcoreapp3.1\OckwigA5.AssemblyInfo.cs
+C:\Users\Caleb\source\repos\OckwigA5\OckwigA5\obj\Debug\netcoreapp3.1\OckwigA5.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\source\repos\OckwigA5\OckwigA5\obj\Debug\netcoreapp3.1\OckwigA5.dll
+C:\Users\Caleb\source\repos\OckwigA5\OckwigA5\obj\Debug\netcoreapp3.1\OckwigA5.pdb
+C:\Users\Caleb\source\repos\OckwigA5\OckwigA5\obj\Debug\netcoreapp3.1\OckwigA5.genruntimeconfig.cache

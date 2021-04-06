@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OckwigA5", "OckwigA5\OckwigA5.csproj", "{3476B17A-1CD5-4AA9-81E4-0E751ECC266A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3476B17A-1CD5-4AA9-81E4-0E751ECC266A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3476B17A-1CD5-4AA9-81E4-0E751ECC266A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3476B17A-1CD5-4AA9-81E4-0E751ECC266A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3476B17A-1CD5-4AA9-81E4-0E751ECC266A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2005C99-DF39-4DD3-B940-C4B88AA9D6B0}
+	EndGlobalSection
+EndGlobal
